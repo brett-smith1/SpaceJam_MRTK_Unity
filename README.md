@@ -14,10 +14,12 @@ The Layout.
  
  
 Pressing the close button of the stats card.
+
 ![image](https://user-images.githubusercontent.com/84197198/127975900-4afed102-a0bc-4347-b0a7-19b3a54769ad.png)
 
 
 Side profile with multiple stats cards opened.
+
 ![image](https://user-images.githubusercontent.com/84197198/127976201-92e682f9-c5a2-4b1b-b944-272630874bf6.png)
 
 

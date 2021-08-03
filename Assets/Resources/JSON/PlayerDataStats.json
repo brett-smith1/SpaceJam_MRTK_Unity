@@ -1,0 +1,100 @@
+{
+  "players": [
+    {
+      "number": 1,
+      "name": "Bugs Bunny",
+      "per": 24.88924,
+      "spriteName": "BugsBunny"
+    },
+    {
+      "number": 2,
+      "name": "Daffy Duck",
+      "per": 29.53991,
+      "spriteName": "DaffyDuck"
+    },
+    {
+      "number": 3,
+      "name": "Elmer Fudd",
+      "per": 26.90357,
+      "spriteName": "ElmerFudd"
+    },
+    {
+      "number": 4,
+      "name": "Foghorn Leghorn",
+      "per": 26.49528,
+      "spriteName": "FoghornLeghorn"
+    },
+    {
+      "number": 5,
+      "name": "Gossamer",
+      "per": 37.22323,
+      "spriteName": "Gossamer"
+    },
+    {
+      "number": 6,
+      "name": "Granny",
+      "per": 28.09165,
+      "spriteName": "Granny"
+    },
+    {
+      "number": 7,
+      "name": "Lola Bunny",
+      "per": 28.40206,
+      "spriteName": "LolaBunny"
+    },
+    {
+      "number": 8,
+      "name": "Marvin the Martian",
+      "per": 27.73608,
+      "spriteName": "MarvinTheMartian"
+    },
+    {
+      "number": 9,
+      "name": "Penelope",
+      "per": 20.33473,
+      "spriteName": "Penelope"
+    },
+    {
+      "number": 10,
+      "name": "Porky Pig",
+      "per": 24.12398,
+      "spriteName": "PorkyPig"
+    },
+    {
+      "number": 11,
+      "name": "Road Runner",
+      "per": 21.18522,
+      "spriteName": "RoadRunner"
+    },
+    {
+      "number": 12,
+      "name": "Sylvester",
+      "per": 27.36111,
+      "spriteName": "Sylvester"
+    },
+    {
+      "number": 13,
+      "name": "Tasmanian Devil",
+      "per": 22.91025,
+      "spriteName": "Taz"
+    },
+    {
+      "number": 14,
+      "name": "Tweety",
+      "per": 25.73423,
+      "spriteName": "Tweety"
+    },
+    {
+      "number": 15,
+      "name": "Wile E. Coyote",
+      "per": 292.25133,
+      "spriteName": "WileECoyote"
+    },
+    {
+      "number": 16,
+      "name": "Yosemite Sam",
+      "per": 0,
+      "spriteName": "YosemiteSam"
+    }
+  ]
+}

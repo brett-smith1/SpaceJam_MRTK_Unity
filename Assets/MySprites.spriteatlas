@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MySprites
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Windows Store Apps
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 261fb3de177178949a6727ca9cb90334, type: 3}
+    totalSpriteSurfaceArea: 51746246
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 771835207892f1942b4d3a5059d6cbed, type: 3}
+  - {fileID: 21300000, guid: 9a64f4803fe240449805471748d07957, type: 3}
+  - {fileID: 21300000, guid: 8de88bb0f20d3eb49aafa7c9850baf35, type: 3}
+  - {fileID: 21300000, guid: 738726015abb1154cbb32752f6cc6d80, type: 3}
+  - {fileID: 21300000, guid: 7b3d3fc179cc86247bcac351b236bbef, type: 3}
+  - {fileID: 21300000, guid: b978292373ce64449846db0eb513f2f3, type: 3}
+  - {fileID: 21300000, guid: e5d80833666482342bc0bc773d35fc99, type: 3}
+  - {fileID: 21300000, guid: d3d196f38ec04c34e94a6fe5c0908dee, type: 3}
+  - {fileID: 21300000, guid: 0e6a0f2453451584796acdaa78695ce0, type: 3}
+  - {fileID: 21300000, guid: 218c03f4caab09b49977643cb035ced3, type: 3}
+  - {fileID: 21300000, guid: d970c9076778b3d4396bb4094c4f68e9, type: 3}
+  - {fileID: 21300000, guid: 6d0ce72aa88473146a5fa4b71124429c, type: 3}
+  - {fileID: 21300000, guid: f33a2b1c5d53d22439b2e29455c1c48f, type: 3}
+  - {fileID: 21300000, guid: accf2fbcb4a5fa5419f7c7126d5d2588, type: 3}
+  - {fileID: 21300000, guid: 8ca4503e791348b439dec27ad54bdcad, type: 3}
+  - {fileID: 21300000, guid: 150283ce1fe3c5745b94dc4ee661a5d5, type: 3}
+  - {fileID: 21300000, guid: 4ea69b8f6cc200d43826f8a45ebe4261, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Tweety
+  - YosemiteSam
+  - MarvinTheMartian
+  - Gossamer
+  - ElmerFudd
+  - FoghornLeghorn
+  - Granny
+  - LolaBunny
+  - Sylvester
+  - BugsBunny
+  - WileECoyote
+  - DaffyDuck
+  - PorkyPig
+  - SpeedyGonzalez
+  - Penelope
+  - Taz
+  - RoadRunner
+  m_Tag: MySprites
+  m_IsVariant: 0

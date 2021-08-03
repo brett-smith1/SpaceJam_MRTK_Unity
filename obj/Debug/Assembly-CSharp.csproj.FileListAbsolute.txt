@@ -1,0 +1,2 @@
+C:\Users\apspeigh\Documents\Unity\Space Jam\Space Jam\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\apspeigh\Documents\Unity\Space Jam\Space Jam\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
